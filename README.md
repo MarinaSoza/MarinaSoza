@@ -1,7 +1,8 @@
-## _Seja bem vindo ao meu perfil_ 👋
+## _Seja bem vindo ao meu perfil_ 🌔 
 
-Meu nome e Marina de Souza
+Meu nome é Marina
 
--Estou estudando no alura
--Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaco
+## Podera entrar em contato 📧
+
+marinasoza208@gmail.com 
+
