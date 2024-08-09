@@ -2,7 +2,7 @@
 
 Meu nome é Marina
 
-## Podera entrar em contato 📧
+## _Podera entrar em contato_ 📧
 
 marinasoza208@gmail.com 
 
